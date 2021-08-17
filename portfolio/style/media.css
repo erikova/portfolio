@@ -1,0 +1,22 @@
+@media (max-width: 480px){
+    .first-meet {
+        height: 80vh;
+    }
+    p {
+        width: 50%;
+    }
+    main {
+        height: 100vh;
+    }
+    .about-me {
+        width: 80%;
+    }
+    .video{
+        width: 100%;
+        align-items: center;
+    }
+    .video iframe{
+        width: 80%;
+        height: 90%;
+    }
+}
